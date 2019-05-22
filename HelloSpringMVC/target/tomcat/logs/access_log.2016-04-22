@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [22/Apr/2016:11:47:01 -0700] "GET /HelloSpringMVC/vijay/ajay HTTP/1.1" 200 310 http-bio-8080-exec-1 93
+0:0:0:0:0:0:0:1 - - [22/Apr/2016:11:47:19 -0700] "GET /HelloSpringMVC/vijay/jscssLoad HTTP/1.1" 200 563 http-bio-8080-exec-7 31
+0:0:0:0:0:0:0:1 - - [22/Apr/2016:11:47:20 -0700] "GET /HelloSpringMVC/resources/css/commons.css HTTP/1.1" 200 152 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [22/Apr/2016:11:47:20 -0700] "GET /HelloSpringMVC/resources/js/common.js HTTP/1.1" 200 68 http-bio-8080-exec-8 8

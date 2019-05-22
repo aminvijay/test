@@ -1,0 +1,14 @@
+package com.vij.aja;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class JSCSSController {
+
+	@RequestMapping("/jscssLoad")
+	public String loadJSCSS(Model model){
+		return "jscssLoad";
+	}
+}
