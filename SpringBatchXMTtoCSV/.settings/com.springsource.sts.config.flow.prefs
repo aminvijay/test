@@ -1,0 +1,3 @@
+#Sat Mar 01 23:34:33 IST 2014
+//com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/batch\:/SpringBatchXMTtoCSV/configure/simple-job.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<graph>\r\n<element clazz\="JobModelElement" type\="job">\r\n<structure end\="2553" endstart\="2541" start\="2197" startend\="2276"/>\r\n<bounds height\="118" width\="132" x\="15" y\="17"/>\r\n</element>\r\n</graph>
+eclipse.preferences.version=1
